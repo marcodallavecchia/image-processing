@@ -246,3 +246,14 @@ def count_colonies_enhanced(image_filename, sigma=1.0, min_colony_size=10, conne
 - These methods are useful for many scientific problems, especially those involving morphometrics.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::::::::::::::::::: discussion
+
+## Further Reading
+
+Wondering where to go from here?
+
+Take a look at our [curated list of resources for further learning](further-reading.md).
+
+::::::::::::::::::::::::::::::::::::::::::::::::::

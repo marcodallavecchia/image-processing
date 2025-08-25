@@ -6,9 +6,9 @@ permalink: /reading/
 ## Where to go from here
 
 - [EMBL Bio-IT Python Workshop - Image Processing](https://git.embl.org/grp-bio-it-workshops/python-workshop-image-processing)
-- [Introduction to Programming in the Biological Sciences Bootcamp Caltech](http://justinbois.github.io/bootcamp/2021/index.html)
-	- [Intro to Image Processing with scikit-image](https://justinbois.github.io/bootcamp/2021/lessons/l38_intro_to_image_processing.html)
-	- [Basic image quantification](http://justinbois.github.io/bootcamp/2021/lessons/l39_segmentation.html)
+- [Introduction to Programming in the Biological Sciences Bootcamp Caltech](https://justinbois.github.io/bootcamp/2021/index.html)
+	- [Intro to Image Processing with scikit-image](https://justinbois.github.io/bootcamp/2023/lessons/l44_intro_to_image_processing.html)
+	- [Basic image quantification](https://justinbois.github.io/bootcamp/2023/lessons/l45_segmentation.html)
 - [Intermediate Python Course EMBL Numpy section](https://grp-bio-it-workshops.embl-community.io/intermediate-python/02-data/index.html)
 - [Scikit-image YouTube tutorials](https://www.youtube.com/playlist?list=PLBKcU7Ik-ir9Fi_hM_A6_U2UTpm7ACUtl)
 - [Introduction to Bioimage Analysis by Pete Bankhead](https://bioimagebook.github.io/index.html)
